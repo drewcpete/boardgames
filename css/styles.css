@@ -1,0 +1,17 @@
+.stuff {
+  font-family: fantasy;
+  font-style: bold;
+}
+div.lists {
+  float: left;
+  width: auto;
+  font-family: cursive;
+  padding-right: 25px;
+}
+
+p.test {
+  float:right;
+  width: 30%;
+  padding-right: 25px;
+
+}
